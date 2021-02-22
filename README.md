@@ -36,3 +36,33 @@ Aportaciones:
 
 Conclusiones:
 
+*  Se analizo y aplico la teoria de numeros complejos  para expresar cantidades fasoriales en diferentes ejemplos propuestos
+
+*  Se analizo y aplico la teoria de la impedancia en un circuito RC en serie  y para los circuitos en paralelo la  teoria de la impedancia y admitancia
+
+*  Se realizo el estudio exploratorio para aplicaciones  de la teoria estudiada ,tanto para la potencia de un circuito en RC como aplicaciones basicas de RC
+
+
+Anexos :
+
+
+Link del video
+
+
+Link del articulo
+
+
+Bibliografia :
+
+Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado : 22-02-2021 ,  Cap 15 ,  Pag : 600-676
+
+
+Camilo, J., & Mogollón, Q. (2017). ANÁLISIS DE CIRCUITOS EN SERIE DE CORRIENTE ALTERNA PROYECTO PARA OPTAR AL TÍTULO DE LICENCIADO EN FÍSICA UNIVERSIDAD PEDAGÓGICA NACIONAL FACULTAD DE CIENCIA Y TECNOLOGÍA DEPARTAMENTO DE FÍSICA LÍNEA DE PROFUNDIZACIÓN: Enseñanza de las ciencias desde una perspectiva cultural. Bogotá-Colombia 2017. Universidad Pedagógica Nacional. http://repository.pedagogica.edu.co/handle/20.500.12209/9177
+
+
+
+
+
+
+
+
