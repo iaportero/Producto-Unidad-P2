@@ -28,6 +28,12 @@ Marco Teorico / Diagramas
 
 ![](https://github.com/iaportero/Trabajo-de-investigacion-P2/blob/main/Imagenes/im%203.png)
 
+Resumen  del capitulo 
+
+![](https://github.com/iaportero/Trabajo-de-investigacion-P2/blob/main/Imagenes/im%204.png)
+
+
+
 Desarrollo :
 
 Aportaciones:
