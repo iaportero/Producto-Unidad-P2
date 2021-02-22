@@ -36,6 +36,9 @@ Resumen  del capitulo
 
 Desarrollo :
 
+https://github.com/iaportero/Trabajo-de-investigacion-P2/tree/main/Codigo%20Fuente
+
+
 Aportaciones:
 
 
