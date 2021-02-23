@@ -60,6 +60,7 @@ Link del video
 
 Link del articulo
 
+https://github.com/iaportero/Trabajo-de-investigacion-P2/blob/main/Articulo/articulo%204.pdf
 
 Bibliografia :
 
